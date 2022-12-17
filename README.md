@@ -11,4 +11,4 @@
 
 ## Notes
 - The .mlapp file is the raw MATLAB app file. You must download it and open it within MATLAB to view and run it.
-- Alternatively, you can open the .txt file to view the code.
+- Alternatively, you can open the .m file to view the code.
